@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-//This ia a sample activity for the first Android app ever made... by me :)
+//This ia a sample activity for the first Android app ever made... by me.
 public class FirstActivity extends AppCompatActivity {
 
     @Override
